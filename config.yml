@@ -1,6 +1,6 @@
-baseURL: https://yatesdev.github.io/poly-cs-talk
+baseURL: https://yatesdev.github.io/career-expo-talk
 languageCode: en-us
-title: Poly CS Talk
+title: Coppin Academy Career Expo
 theme: PaperMod
 
 googleAnalytics: G-KQXNBZX5SY
@@ -8,16 +8,17 @@ enableEmoji: true
 params:
   homeInfoParams:
     Title: Hi, I'm Mike Yates
-    Content: #Can be Info, links, about...
+    Content: Software Engineer #Can be Info, links, about...
 
-  socialIcons: # optional
+  socialIcons:
     - name: "email"
-      url: "mailto:mikehyates+polycs@gmail.com"
+      url: "mailto:yates2+coppincareerexpo@umbc.edu"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/yatesdev/"
-  
+    - name: "github"
+      url: "https://github.com/yatesdev"
   cover:
     hiddenInList: true
   hideFooter: true
   hideSummary: true
-  
+  ShowPostNavLinks: true

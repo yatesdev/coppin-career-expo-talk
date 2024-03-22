@@ -1,6 +1,7 @@
 ---
 title: "About Me"
-# date: 2022-09-19T19:49:02-04:00
+weight: 1
+# date: 2023-09-19T19:49:02-04:00
 # author: "Mike Yates"
 draft: false
 description: ""
@@ -12,16 +13,20 @@ description: ""
 Mike Yates. :point_up: that guy, obviously.
 
 ## Education
-- Graduated from Digital Harbor HS in 2010
-- Graduated from UMBC with a B.S in Information Systems in 2015
+- Graduated from Digital Harbor HS (2010)
+  - Member of the [Robotics club](yatesdhhs2546.jpg)
+  - Founded the Programming club
+- Graduated from UMBC with a B.S in Information Systems (2015)
 
 ## Work Experience
-- [National Investment Center for Seniors Housing & Care (NIC)](nic.org)
+- [National Investment Center for Seniors Housing & Care (NIC)](https://nic.org)
+  - 2015-2020
   - Started as a summer intern
   - First real world experience
-- [Tradeswell](https://www.tradeswell.com/)
+- [Incremental](https://www.incremental.com/)
+  - 2020-Present
   - eCommerce Startup
-  - Fast paced, learning as you go
+  - Fast paced, learning as we go
 
 ## Why Computer Science?
 - Because I'm Lazy!
@@ -30,4 +35,4 @@ Mike Yates. :point_up: that guy, obviously.
 - Many, many different aspects to learn.
 - Always evolving, always learning
   <!-- Mention smartphones being ubiquitous during their life. -->
-  <!-- >
+  <!-- Growth of AI>
